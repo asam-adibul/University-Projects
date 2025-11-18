@@ -1,10 +1,3 @@
-; ================================================
-; Simple Arithmetic Calculator in 8086 Assembly
-; Supports: Addition, Subtraction, Multiplication, Division
-; Author: Your Name
-; Date: November 2025
-; ================================================
-
 .model small
 .stack 100h
 .data
