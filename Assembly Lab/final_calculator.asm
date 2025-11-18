@@ -1,3 +1,8 @@
+; Simple Calculator in Assembly Language
+; Name: Adibul Asam
+; ID: 0432310005101025
+; Section: 6A1
+
 .model small
 .stack 100h
 .data
