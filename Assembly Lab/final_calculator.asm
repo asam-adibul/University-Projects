@@ -7,7 +7,7 @@
 .stack 100h
 .data
     menu db 0Dh,0Ah, " Calculator By Adibul Asam", 0Dh,0Ah
-         db "       ===================================", 0Dh,0Ah
+         db "       ==============================", 0Dh,0Ah
          db "       1. Addition (+)", 0Dh,0Ah
          db "       2. Subtraction (-)", 0Dh,0Ah
          db "       3. Multiplication (*)", 0Dh,0Ah
